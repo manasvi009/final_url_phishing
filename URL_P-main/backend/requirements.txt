@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+tldextract
+validators
+fastapi
+uvicorn
+python-dotenv
+openai
+pymongo
+python-jose[cryptography]
+argon2-cffi
