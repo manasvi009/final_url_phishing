@@ -12,3 +12,4 @@ openai
 pymongo
 python-jose[cryptography]
 argon2-cffi
+python-multipart
